@@ -1,0 +1,31 @@
+
+ .mac{
+    color: rgb(239, 81, 81);
+    text-align: center;
+ }
+ .items {
+    background-color: #fcbf49;
+ }
+
+ .p{
+    background-color: #fcbf49;
+ }
+ .kd {
+    background-color: #fcbf49;
+ }
+ 
+ 
+ body {
+    border-width: 20px;
+    border-color: black;
+ }
+
+ .card {
+    width: 500px;
+    background-color: #fcbf49;
+    text-align: center;
+ }
+
+ #dish-name {
+    color: white;
+ }
